@@ -1,0 +1,1 @@
+from .scalablemap_new_head import SMPNewHead
