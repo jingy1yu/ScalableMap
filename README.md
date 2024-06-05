@@ -72,3 +72,16 @@ Train ScalableMap with 8 GPUs
 
 ## Acknowledgements
 ScalableMap is based on mmdetection3d. It's also inspired by the following outstanding contributions to the open-source community: BEVFormer, HDMapNet, VectorMapNet, MapTR.
+
+## Citation
+If our code or models help your work, , please consider citing the following bibtex:
+```
+@inproceedings{yu2023scalablemap,
+  title={ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction},
+  author={Yu, Jingyi and Zhang, Zizhao and Xia, Shengfu and Sang, Jizhang},
+  booktitle={Conference on Robot Learning},
+  pages={2429--2443},
+  year={2023},
+  organization={PMLR}
+}
+```
